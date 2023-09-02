@@ -39,3 +39,9 @@ One of the crucial features I integrated was the dynamic speed control based on 
 
 This summary offers a comprehensive view of my technical involvement and achievements in the Wall Following Lab of an autonomous car. It emphasizes the technical nuances and strategies employed to ensure successful autonomous navigation of the car.
 
+
+## Video link:
+
+This video shows the effective wall following strategy
+
+https://www.youtube.com/watch?v=xT0UGcj1VCE
