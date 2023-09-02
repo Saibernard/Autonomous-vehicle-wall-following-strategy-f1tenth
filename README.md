@@ -56,4 +56,4 @@ This summary offers a comprehensive view of my technical involvement and achieve
 
 This video shows the effective wall following strategy
 
-https://www.youtube.com/watch?v=xT0UGcj1VCE
+[https://www.youtube.com/watch?v=xT0UGcj1VCE](https://youtu.be/nHq3BgRAQy8)https://youtu.be/nHq3BgRAQy8
