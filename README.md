@@ -24,9 +24,21 @@ Where:
 
 I incorporated a laser scanning mechanism to gauge the car's distance and orientation relative to a wall. By computing the angle α, I could determine the car's x-axis direction concerning the wall, allowing for accurate distance calculations, Dt and Dt+1.
 
+![image](https://github.com/Saibernard/wall-follow-f1tenth/assets/112599512/451accb0-9a59-4c37-81b3-b4ac6100a971)
+
+
+![image](https://github.com/Saibernard/wall-follow-f1tenth/assets/112599512/bd033bc5-2ab6-47ed-bb01-6bf2f9b52b79)
+
+
 ### Dynamic Speed Control
 
 One of the crucial features I integrated was the dynamic speed control based on the computed steering angle. This feature adjusts the car's speed in real-time based on its angle concerning the wall, ensuring that the car slows down during tight corners for safety.
+
+![image](https://github.com/Saibernard/wall-follow-f1tenth/assets/112599512/e3efdb6c-1490-481e-a276-aa6e4d45b656)
+
+![image](https://github.com/Saibernard/wall-follow-f1tenth/assets/112599512/7f21c06c-832b-49d4-ad46-d9c5b64ed858)
+
+
 
 ## Implementation Strategy
 
